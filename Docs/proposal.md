@@ -71,4 +71,4 @@ Here are some research questions that you can use as a starting point for your a
 - The dataset consists of 10 years information (2010-2019)
 - Source: [Dataset Source](https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z)
 - Data Size: 515 MB
-- Data Shape (Number of Rows and Columns): Number of rows: 1320781, Number of columns: 22
+- Data Shape (Number of Rows and Columns): Number of rows: 2135598, Number of columns: 28
