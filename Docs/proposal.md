@@ -71,6 +71,6 @@ As Crime is a pervasive concern impacting communities, cities, and nations globa
 - **LON** - float64 - Longitude
   
 # Target Variable and Predictors
-
+Through this analysis, I am trying to identify which areas and populations in LA have been hit the hardest by crime from 2010 to 2019
 **Target variable for the ML Model** - Area <br>
 **Features** - Area Code, LAT, LON, Premis Cd, Rpt Dist No., Location, Cross Street
