@@ -14,20 +14,20 @@ Los Angeles, often referred to as LA, is a vibrant and diverse city located in S
 
 As Crime is a pervasive concern impacting communities, cities, and nations globally, gaining insights into crime patterns and trends is of utmost importance for law enforcement agencies, policymakers, and communities to craft effective strategies for crime prevention and response. Analyzing historical crime data allows for a deeper understanding of how criminal activities have evolved over the specified decade. The years from 2010 to 2019 are especially noteworthy for studying crime trends, given the societal and technological shifts that occurred during this period.
 
+# Project objective
 
+1. To Analyse the trends in overall crime rates during the decade. <br>
+
+2. To develop a predictive model to forecast future crimes taking all the factors into consideration.
+   
 # Research Questions
 
-1. What are the long-term trends in overall crime rates during the decade?
 
-2. Are there distinct seasonal patterns in crime occurrences, and if so, do these patterns vary by crime category?
+1. Which specific crime categories showed the most significant changes in prevalence over the study period?
 
-3. Which specific crime categories showed the most significant changes in prevalence over the study period?
+2. Are there geographical hotspots for crime, and do these locations remain consistent over time?
 
-4. Are there geographical hotspots for crime, and do these locations remain consistent over time? Are there areas that have experienced a notable increase or decrease in crime rates?
-
-5. How do demographic factors, such as age, gender, and socioeconomic status, correlate with crime rates? Are certain demographic groups more susceptible to specific types of crimes?
-
-6. Can predictive models be developed to forecast future crime rates, and if so, which factors are the most influential in making accurate predictions?
+3. How do demographic factors, such as age, gender, and socioeconomic status, correlate with crime rates?
 
 
 # Data
