@@ -1,8 +1,8 @@
 # Title and Author
 
-- **Project Title**: Exploratory Analysis of Crime Data from 2010 to 2019
+- **Project Title**: Crime Report Analysis of Los Angeles City from 2010 to 2019
 - **Prepared for UMBC Data Science Master Degree Capstone by**: Dr. Chaojie (Jay) Wang
-- **Author**: Korumilli Sai Manasa
+- **Author**: Sai Manasa Korumilli
 - **Link to the author's GitHub profile**: [GitHub Profile](https://github.com/SaiManasaK1508)
 - **Link to the author's LinkedIn profile**: [LinkedIn Profile](https://www.linkedin.com/in/saimanasa-korumilli/)
 - **Link to PowerPoint presentation file**: Will update later 
@@ -10,25 +10,24 @@
 
 # Background
 
-This dataset presents a comprehensive record of criminal incidents that occurred within the City of Los Angeles between 2010 and 2019. 
+Los Angeles, often referred to as LA, is a vibrant and diverse city located in Southern California, USA, Los Angeles boasts a thriving cultural scene, a bustling economy, and stunning natural beauty, with picturesque beaches and mountains. However, LA faces challenges like traffic congestion, high living costs, income inequality, and crime rates. Especially, Crime rates have varied over the years, with some areas experiencing higher levels of criminal activity, particularly property crimes and gang-related incidents. This dataset presents a comprehensive record of criminal incidents that occurred within the City of Los Angeles between 2010 and 2019. 
 
-Crime is a pervasive concern impacting communities, cities, and nations globally. Gaining insights into crime patterns and trends is of utmost importance for law enforcement agencies, policymakers, and communities to craft effective strategies for crime prevention and response. Analyzing historical crime data allows for a deeper understanding of how criminal activities have evolved over the specified decade. The years from 2010 to 2019 are especially noteworthy for studying crime trends, given the societal and technological shifts that occurred during this period.
+As Crime is a pervasive concern impacting communities, cities, and nations globally, gaining insights into crime patterns and trends is of utmost importance for law enforcement agencies, policymakers, and communities to craft effective strategies for crime prevention and response. Analyzing historical crime data allows for a deeper understanding of how criminal activities have evolved over the specified decade. The years from 2010 to 2019 are especially noteworthy for studying crime trends, given the societal and technological shifts that occurred during this period.
 
 
 # Research Questions
 
-1. What are the long-term trends in overall crime rates during the decade from 2010 to 2019, and are there significant variations from year to year?
+1. What are the long-term trends in overall crime rates during the decade?
 
-2. Are there distinct seasonal patterns in crime occurrences, and if so, do these patterns vary by crime category (e.g., violent, property, drug-related)?
+2. Are there distinct seasonal patterns in crime occurrences, and if so, do these patterns vary by crime category?
 
-3. Which specific crime categories showed the most significant changes in prevalence over the study period, and can these changes be attributed to any specific factors or events?
+3. Which specific crime categories showed the most significant changes in prevalence over the study period?
 
 4. Are there geographical hotspots for crime, and do these locations remain consistent over time? Are there areas that have experienced a notable increase or decrease in crime rates?
 
 5. How do demographic factors, such as age, gender, and socioeconomic status, correlate with crime rates? Are certain demographic groups more susceptible to specific types of crimes?
 
 6. Can predictive models be developed to forecast future crime rates, and if so, which factors are the most influential in making accurate predictions?
-
 
 
 # Data
@@ -70,3 +69,8 @@ Crime is a pervasive concern impacting communities, cities, and nations globally
 - **Cross Street** - object - Cross Street of rounded Address
 - **LAT** - float64 -  Latitude
 - **LON** - float64 - Longitude
+  
+# Target Variable and Predictors
+
+**Target variable for the ML Model** - Area <br>
+**Features** - Area Code, LAT, LON, Premis Cd, Rpt Dist No., Location, Cross Street
