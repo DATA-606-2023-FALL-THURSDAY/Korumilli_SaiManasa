@@ -27,7 +27,7 @@ As Crime is a pervasive concern impacting communities, cities, and nations globa
 
 2. Are there geographical hotspots for crime, and do these locations remain consistent over time?
 
-3. How do demographic factors, such as age, gender, and socioeconomic status, correlate with crime rates?
+3. How do demographic factors, such as age, gender effect the crime?
 
 
 # Data
@@ -71,7 +71,7 @@ As Crime is a pervasive concern impacting communities, cities, and nations globa
 - **LON** - float64 - Longitude
   
 # Target Variable and Predictors
-Through this analysis, I am trying to identify which areas and populations in LA have been hit the hardest by crime from 2010 to 2019 <br>
+Through this analysis, I am trying to predict the weapon used to commit the crime in LA <br>
 
-**Target variable for the ML Model** - Area <br>
-**Features** - Area Code, LAT, LON, Premis Cd, Rpt Dist No., Location, Cross Street
+**Target variable for the ML Model** - Weapon Desc <br>
+**Features** - Area Name, Crm Cd Desc, Vict Sex, Vict Descent, Premis Desc; Vict age, Area
