@@ -18,7 +18,7 @@ As Crime is a pervasive concern impacting communities, cities, and nations globa
 
 1. To Analyse the trends in overall crime rates during the decade. <br>
 
-2. To develop a predictive model to forecast future crimes taking all the factors into consideration.
+2. To develop a predictive model to forecast the weapon used in the future crimes taking relevant factors into consideration.
    
 # Research Questions
 
