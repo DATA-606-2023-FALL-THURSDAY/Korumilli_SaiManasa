@@ -102,7 +102,7 @@ The top most effected area is 77th street in LA followed by Southwest and Southe
 **Crimes according to the gender**
 
 
-<img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/gender.png"?
+<img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/gender.png">
 
 We can draw the conclusion as the crimes happening with male are comparatively higher than the female
 
