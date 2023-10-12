@@ -89,7 +89,7 @@ Through this analysis, I am trying to predict the status of future crimes that w
 ### Analysing and Visualization of Data
 
 
- <img width="1000" alt="image" src="a">
+ <img width="1000" alt="image" src="Images/crime category.png">
 
 
 
