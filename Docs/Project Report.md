@@ -71,7 +71,7 @@ As Crime is a pervasive concern impacting communities, cities, and nations globa
 - **LON** - float64 - Longitude
   
 # Target Variable and Predictors
-Through this analysis, I am trying to predict the weapon used to commit the crime in LA <br>
+Through this analysis, I am trying to predict the status of future crimes that will occur in LA <br>
 
-**Target variable for the ML Model** - Weapon Desc <br>
-**Features** - Area Name, Crm Cd Desc, Vict Sex, Vict Descent, Premis Desc; Vict age, Area
+**Target variable for the ML Model** - Status Desc <br>
+**Features** - AREA NAME, Crm Cd Desc, Vict Sex, Vict Descent, Weapon Desc, Premis Desc, Vict Age, LOCATION
