@@ -1,6 +1,6 @@
 # Title and Author
 
-- **Project Title**: Crime Report Analysis of Los Angeles City from 2010 to 2019
+- **Project Title**: Crime Report Analysis and Status Prediction - Los Angeles City
 - **Prepared for UMBC Data Science Master Degree Capstone by**: Dr. Chaojie (Jay) Wang
 - **Author**: Sai Manasa Korumilli
 - **Link to the author's GitHub profile**: [GitHub Profile](https://github.com/SaiManasaK1508)
@@ -10,15 +10,15 @@
 
 # Background
 
-Los Angeles, often referred to as LA, is a vibrant and diverse city located in Southern California, USA, Los Angeles boasts a thriving cultural scene, a bustling economy, and stunning natural beauty, with picturesque beaches and mountains. However, LA faces challenges like traffic congestion, high living costs, income inequality, and crime rates. Especially, Crime rates have varied over the years, with some areas experiencing higher levels of criminal activity, particularly property crimes and gang-related incidents. This dataset presents a comprehensive record of criminal incidents that occurred within the City of Los Angeles between 2010 and 2019. 
+Los Angeles, often referred to as LA, is a vibrant and diverse city located in Southern California, USA, Los Angeles boasts a thriving cultural scene, a bustling economy, and stunning natural beauty, with picturesque beaches and mountains. However, LA faces challenges like traffic congestion, high living costs, income inequality, and crime rates. Crime rates have varied over the years, with some areas experiencing higher levels of criminal activity, particularly property crimes and gang-related incidents. This dataset presents a comprehensive record of criminal incidents within the City of Los Angeles between 2010 and 2019. 
 
 As Crime is a pervasive concern impacting communities, cities, and nations globally, gaining insights into crime patterns and trends is of utmost importance for law enforcement agencies, policymakers, and communities to craft effective strategies for crime prevention and response. Analyzing historical crime data allows for a deeper understanding of how criminal activities have evolved over the specified decade. The years from 2010 to 2019 are especially noteworthy for studying crime trends, given the societal and technological shifts that occurred during this period.
 
 # Project objective
 
-1. To Analyse the trends in overall crime rates during the decade. <br>
+1. To Analyse the trends in overall crimes during the decade. <br>
 
-2. To develop a predictive model to forecast the weapon used in the future crimes taking relevant factors into consideration.
+2. To develop a machine learning model that predicts the status of future crimes taking relevant factors into consideration.
    
 # Research Questions
 
