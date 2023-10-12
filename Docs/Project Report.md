@@ -88,20 +88,38 @@ Through this analysis, I am trying to predict the status of future crimes that w
 
 ### Analysing and Visualization of Data
 
-
+**Crimes according to the crime categories**
  <img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/crime%20category.png">
 
+Top crime categories are Battery - Simple assault, Stolen Vehicles, Burglary from vehicles and Theft
+
+**Most affected areas**
 
 <img width="1000" alt="image" src= "https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/area.png">
 
+The top most effected area is 77th street in LA followed by Southwest and Southeast.
+
+**Crimes according to the gender**
+
+
 <img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/gender.png"?
+
+We can draw the conclusion as the crimes happening with male are comparatively higher than the female
+
+**Mapping of locations using latitutes and longitudes**
 
 <img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/crimes-area.png">
 
 
 <img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/location-no.of%20crimes.png">
 
+We can see the number of crimes in each locations
+
+**Premis wise crimes**
+
 <img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/premis.png">
+
+Streets are where most crimes are happening, even the parking lot is not safe according to the visualization
 
 
 
