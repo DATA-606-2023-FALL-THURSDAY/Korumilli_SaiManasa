@@ -75,3 +75,21 @@ Through this analysis, I am trying to predict the status of future crimes that w
 
 **Target variable for the ML Model** - Status Desc <br>
 **Features** - AREA NAME, Crm Cd Desc, Vict Sex, Vict Descent, Weapon Desc, Premis Desc, Vict Age, LOCATION
+
+# Exploratory Data Analysis
+
+### Data Cleaning and Pre-processing
+
+**Removing the Duplicates** - Checking the duplicates in the data set, there are no duplicates present in the data.
+
+**Removing the similar columns** - Columns such as 'Mocodes', 'Crm Cd 1', 'Crm Cd 2', 'Crm Cd 3', 'Crm Cd 4', ' Part 1-2' represents similar information of 'Crm cd'. The columns 'Rpt Dist No' and 'Cross street' are not of much necessary information, therefore these were removed.
+
+**Replacing the null values** - As the other columns contain important information that is helpful for the ML model, instead of dropping the rows of the null values, I have replaced them with 'Unknown' values.
+
+### Analysing and Visualization of Data
+
+
+
+
+
+
