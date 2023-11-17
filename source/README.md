@@ -2,8 +2,6 @@
 
 This folder contains jupyter notebook and python files
 
-The size of notebook is big, so I have uploaded in the google drive.
-Below is the link to the google drive
+To view the interactive maps in the EDA file, please link on the link below
 
-https://drive.google.com/drive/u/1/folders/1yCa1aW0HwLwH3Krlsn8pWF_TLo2eM0wd
-
+https://nbviewer.org/github/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/source/Updated%20EDA%20-%20Crime%20Status%20Prediction.ipynb
