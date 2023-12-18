@@ -125,9 +125,26 @@ Streets are where most crimes are happening, even the parking lot is not safe ac
 
 <img width="600" height="500" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/mapped%20status.png">
 
+- We have changed the target "Status DESC" to "Mapped Status", where two columns are "Investigation continued" and "Status closed". 
+- The data is unbalanced, with 77 percent being "Investigated" and 23 percent as "Closed".
+- To address this issue, we have used Oversampling, and the data is balanced.
+
 <img width="1000" height="400" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/balanced%20data.png">
 
+- We can see the balanced data here.
 
+
+
+- Here is the Machine Learning comparison in terms of accuracy and time taken, the models used are
+  1. Logistic Regression
+  2. Decision Tree
+  3. Neural Networks
+  4. Random Forest Classifier
+  5. Cat Boost
+
+- We can see that the Neural network has highest accuracy 91 percent, followed by Random Forest classifier, and Decision trees. (90 and 89 percent)
+- We can also observe that time taken is maximum for Neural networks, and random forest classifiers.
+  
 <img width="700" height="500" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/ml%20model%20comparision.png">
 
 
