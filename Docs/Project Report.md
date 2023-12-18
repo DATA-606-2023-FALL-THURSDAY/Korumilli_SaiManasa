@@ -6,7 +6,7 @@
 - **Link to the author's GitHub profile**: [GitHub Profile](https://github.com/SaiManasaK1508)
 - **Link to the author's LinkedIn profile**: [LinkedIn Profile](https://www.linkedin.com/in/saimanasa-korumilli/)
 - **Link to PowerPoint presentation file**: Will update later 
-- **Link to Youtube Video**: [youtube video] (https://youtu.be/TH2mwLp2piQ)
+- **Link to Youtube Video**: [youtube video](https://youtu.be/TH2mwLp2piQ)
 # Background
 
 Los Angeles, often referred to as LA, is a vibrant and diverse city located in Southern California, USA, Los Angeles boasts a thriving cultural scene, a bustling economy, and stunning natural beauty, with picturesque beaches and mountains. However, LA faces challenges like traffic congestion, high living costs, income inequality, and crime rates. Crime rates have varied over the years, with some areas experiencing higher levels of criminal activity, particularly property crimes and gang-related incidents. This dataset presents a comprehensive record of criminal incidents within the City of Los Angeles between 2010 and 2019. 
