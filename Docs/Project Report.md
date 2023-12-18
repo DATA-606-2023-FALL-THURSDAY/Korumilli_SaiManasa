@@ -3,6 +3,7 @@
 - **Project Title**: Crime Report Analysis and Status Prediction - Los Angeles City
 - **Prepared for UMBC Data Science Master Degree Capstone by**: Dr. Chaojie (Jay) Wang
 - **Author**: Sai Manasa Korumilli
+- **Semester** : Fall 2023
 - **Link to the author's GitHub profile**: [GitHub Profile](https://github.com/SaiManasaK1508)
 - **Link to the author's LinkedIn profile**: [LinkedIn Profile](https://www.linkedin.com/in/saimanasa-korumilli/)
 - **Link to PowerPoint presentation file**: [Powerpoint Presentation](https://1drv.ms/p/s!AsYJIXOWnLxRhh5cZuR6VIl1qp42?e=fwq41M&nav=eyJzSWQiOjI5MiwiY0lkIjozODk4NDQ3OTI5fQ)
