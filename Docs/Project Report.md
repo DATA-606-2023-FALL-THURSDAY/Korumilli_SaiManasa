@@ -153,5 +153,15 @@ Streets are where most crimes are happening, even the parking lot is not safe ac
 - The neural network exhibits the highest ROC AUC, showcasing its superior ability to discriminate between positive and negative instances.
 - Following closely behind, the random forest, decision tree, catboost, and logistic regression models also exhibit respectable ROC AUC values, in descending order.
 
+# Conclusion
+
+- Month-wise crimes - No major difference in the crimes
+- Crimes as per Area – 77th Street is prone to the crimes, deployment of more cops is required
+- Vehicle stolen, Burglary, battery assault are the major crimes, safety measures to be implemented
+- Streets and Parking lots are not safe, can impose few restrictions on parking
+- Most happening crimes are at night, should be cautious and call emergency incase of any suspicious activity
+- Male and youth are more prone to the crimes as per the analysis
+- In most cases, weapons used are bodily force, verbal threat and hand gun
+- In comparison to arrest or closing of the case, investigation is still continued.
 
 
