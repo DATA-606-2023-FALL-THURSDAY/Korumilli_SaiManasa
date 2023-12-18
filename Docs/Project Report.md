@@ -117,11 +117,21 @@ We can see the number of crimes in each locations
 
 **Premis wise crimes**
 
-<img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/premis.png">
+<img width="600" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/premis.png">
 
 Streets are where most crimes are happening, even the parking lot is not safe according to the visualization
 
+# Machine Learning Models
 
+<img width="600" height="500" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/mapped%20status.png">
+
+<img width="1000" height="400" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/balanced%20data.png">
+
+
+<img width="700" height="500" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/ml%20model%20comparision.png">
+
+
+<img width="700" height="500" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/roc%20comparision.png">
 
 
 
