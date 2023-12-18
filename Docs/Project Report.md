@@ -150,5 +150,8 @@ Streets are where most crimes are happening, even the parking lot is not safe ac
 
 <img width="700" height="500" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/roc%20comparision.png">
 
+- The neural network exhibits the highest ROC AUC, showcasing its superior ability to discriminate between positive and negative instances.
+- Following closely behind, the random forest, decision tree, catboost, and logistic regression models also exhibit respectable ROC AUC values, in descending order.
+
 
 
