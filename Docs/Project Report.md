@@ -110,14 +110,21 @@ We can draw the conclusion as the crimes happening with male are comparatively h
 
 <img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/Victim_age.png">
 
+We can observe that the mean age of the victim is about 32 years, the youth and middle-aged people are affected most compared to children and senior citizens.
+
+
 **Major weapons used in crimes**
 
 <img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/Weapon_used.png">
+
+434k crimes are committed with strong-arm compared to 59k crimes of verbal threat
+
 
 **crimes as per time occurrence**
 
 <img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/time.png">
 
+Afternoon and Nights are the most crime happening times in a day
 
 **Mapping of locations using latitutes and longitudes**
 
