@@ -1,6 +1,8 @@
-# Title and Author
+<img width="800" height = "400" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/221251.jpg">
 
-- **Project Title**: Crime Report Analysis and Status Prediction - Los Angeles City
+
+# Crime Analysis and Status Prediction - Los Angeles City
+
 - **Prepared for UMBC Data Science Master Degree Capstone by**: Dr. Chaojie (Jay) Wang
 - **Author**: Sai Manasa Korumilli
 - **Semester** : Fall 2023
@@ -91,40 +93,40 @@ Through this analysis, I am trying to predict the status of future crimes that w
 **Crimes according to the crime categories**
  <img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/crime%20category.png">
 
-Top crime categories are Battery - Simple assault, Stolen Vehicles, Burglary from vehicles and Theft
+- Top crime categories are Battery - Simple assault, Stolen Vehicles, Burglary from vehicles and Theft
 
 **Most affected areas**
 
 <img width="1000" alt="image" src= "https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/Area1.png">
 
-The top most effected area is 77th street in LA followed by Southwest and Southeast.
+- The top most effected area is 77th street in LA followed by Southwest and Southeast.
 
 **Crimes according to the gender**
 
 
 <img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/gender.png">
 
-We can draw the conclusion as the crimes happening with male are comparatively higher than the female
+- We can draw the conclusion as the crimes happening with male are comparatively higher than the female
 
 **Crimes according to Victim age**
 
 <img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/Victim_age.png">
 
-We can observe that the mean age of the victim is about 32 years, the youth and middle-aged people are affected most compared to children and senior citizens.
+- We can observe that the mean age of the victim is about 32 years, the youth and middle-aged people are affected most compared to children and senior citizens.
 
 
 **Major weapons used in crimes**
 
 <img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/Weapon_used.png">
 
-434k crimes are committed with strong-arm compared to 59k crimes of verbal threat
+- 434k crimes are committed with strong-arm compared to 59k crimes of verbal threat
 
 
 **crimes as per time occurrence**
 
 <img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/time.png">
 
-Afternoon and Nights are the most crime happening times in a day
+- Afternoon and Nights are the most crime happening times in a day
 
 **Mapping of locations using latitutes and longitudes**
 
@@ -133,13 +135,13 @@ Afternoon and Nights are the most crime happening times in a day
 
 <img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/location-no.of%20crimes.png">
 
-We can see the number of crimes in each locations
+- We can see the number of crimes in each location
 
 **Premis wise crimes**
 
 <img width="600" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/premis.png">
 
-Streets are where most crimes are happening, even the parking lot is not safe according to the visualization
+- Streets are where most crimes are happening, even the parking lot is not safe according to the visualization
 
 # Machine Learning Models
 
