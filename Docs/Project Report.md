@@ -95,7 +95,7 @@ Top crime categories are Battery - Simple assault, Stolen Vehicles, Burglary fro
 
 **Most affected areas**
 
-<img width="1000" alt="image" src= "https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/area.png">
+<img width="1000" alt="image" src= "https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/Area1.png">
 
 The top most effected area is 77th street in LA followed by Southwest and Southeast.
 
@@ -106,9 +106,22 @@ The top most effected area is 77th street in LA followed by Southwest and Southe
 
 We can draw the conclusion as the crimes happening with male are comparatively higher than the female
 
+**Crimes according to Victim age**
+
+<img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/Victim_age.png">
+
+**Major weapons used in crimes**
+
+<img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/Weapon_used.png">
+
+**crimes as per time occurrence**
+
+<img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/time.png">
+
+
 **Mapping of locations using latitutes and longitudes**
 
-<img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/crimes-area.png">
+<img width="1000" height="500" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/crimes-area.png">
 
 
 <img width="1000" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/Korumilli_SaiManasa/blob/main/Images/location-no.of%20crimes.png">
